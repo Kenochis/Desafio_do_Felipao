@@ -63,8 +63,8 @@ switch (true){
     break;
 
     case (xp > 10000):
-        console.log("Classificação: Mythic");
-        break;
+    console.log("Classificação: Mythic");
+    break;
 
 }
 console.log(recepcionista + ": Parabéns " + heroi + "! Sua classificação atual é Mythic!");
